@@ -37,9 +37,15 @@ The business requires:
 ### Data Flow
 
 Databricks Volumes
+
 ↓
+
 Bronze Layer (Auto Loader)
+
 ↓
+
 Silver Layer (Auto CDC + Expectations)
+
 ↓
+
 Gold Layer (Facts & Dimensions)
