@@ -1,0 +1,2 @@
+{"customer_id": 1, "name": "Alice", "email": "alice@gmail.com", "phone": "9999999999", "updated_at": "2025-01-01T10:00:00", "operation": "INSERT"}
+{"customer_id": 2, "name": "Bob", "email": "bob@gmail.com", "phone": "8888888888", "updated_at": "2025-01-01T11:00:00", "operation": "INSERT"}
