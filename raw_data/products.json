@@ -1,0 +1,2 @@
+{"product_id": 101, "product_name": "Laptop", "price": 70000, "updated_at": "2025-01-01T09:00:00", "operation": "INSERT"}
+{"product_id": 102, "product_name": "Mouse", "price": 500, "updated_at": "2025-01-01T09:30:00", "operation": "INSERT"}

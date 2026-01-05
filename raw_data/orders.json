@@ -1,0 +1,2 @@
+{"order_id": 1001, "customer_id": 1, "order_date": "2025-01-01", "status": "CREATED", "updated_at": "2025-01-01T12:00:00", "operation": "INSERT"}
+{"order_id": 1002, "customer_id": 2, "order_date": "2025-01-01", "status": "CREATED", "updated_at": "2025-01-01T12:05:00", "operation": "INSERT"}
