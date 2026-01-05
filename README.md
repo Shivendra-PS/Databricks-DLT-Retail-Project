@@ -32,7 +32,7 @@ The business requires:
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](architecture/architecture_diagram.png)
+![Architecture Diagram](architecture_diagram.png)
 
 ### Data Flow
 
